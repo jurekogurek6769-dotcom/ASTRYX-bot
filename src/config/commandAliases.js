@@ -79,28 +79,35 @@ export const commandAliases = {
 };
 
 export const subcommandAliases = {
-    'l': 'list',
-    'ls': 'list',
-    's': 'set',
-    'i': 'info',
-    'r': 'remove',
-    'rm': 'remove',
-    'del': 'remove',
-    'n': 'next',
-    'sc': 'setchannel',
+  'l': 'lista',
+'ls': 'lista',
 
-    'a': 'add',
-    'c': 'complete',
-    'done': 'complete',
-    'd': 'complete',
+'s': 'ustaw',
 
-    'start': 'create',
-    'stop': 'end',
-    'roll': 'reroll',
+'i': 'info',
 
-    'add': 'add',
-    'remove': 'remove',
-    'list': 'list',
+'r': 'usuń',
+'rm': 'usuń',
+'del': 'usuń',
+
+'n': 'następna',
+
+'sc': 'ustawkanał',
+
+'a': 'dodaj',
+
+'c': 'zakończ',
+'done': 'zakończ',
+'d': 'zakończ',
+
+'start': 'utwórz',
+'stop': 'zakończ',
+
+'roll': 'wylosuj',
+
+'dodaj': 'dodaj',
+'usuń': 'usuń',
+'lista': 'lista',
 };
 
 /**
